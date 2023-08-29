@@ -27,6 +27,9 @@ public class MainActivity extends AppCompatActivity {
         WifiInfo wi= wm.getConnectionInfo();
 
         Log.d("alrik", String.valueOf(ni));
+        Log.d("alrik", String.valueOf(ni));
+        Log.d("alrik", String.valueOf(ni));
+        Log.d("alrik", String.valueOf(ni));
 
 
         String foo = "Hejsan";
